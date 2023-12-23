@@ -1,6 +1,5 @@
 import Header from "../shared/Header/Header";
 import LeftSideNav from "../shared/LeftSideNav/LeftSideNav";
-import MiddleNewsCard from "../shared/MiddleNewsCards/MiddleNewsCard";
 import MiddleNewsCards from "../shared/MiddleNewsCards/MiddleNewsCards";
 import NavBar from "../shared/NavBar/NavBar";
 import RightSideNav from "../shared/RightSideNav/RightSideNav";
